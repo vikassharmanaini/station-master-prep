@@ -1,6 +1,6 @@
-const CACHE = 'sm-prep-v1';
+const CACHE = 'sm-prep-v2';
 const ASSETS = [
-  './', './index.html', './styles.css', './app.js', './data.js', './manifest.json',
+  './', './index.html', './styles.css', './app.js', './data.js', './data2.js', './manifest.json',
   './icons/icon-192.svg', './icons/icon-512.svg'
 ];
 self.addEventListener('install', e => {
